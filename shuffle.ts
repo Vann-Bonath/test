@@ -10,4 +10,5 @@ function shuffle(nums: number[], n: number): number[] {
   return shuffledArray;
 }
 
+
 console.log(shuffle([2, 5, 1, 3, 4, 7], 3));
