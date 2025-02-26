@@ -1,0 +1,18 @@
+so they want me to write code that calculate sum of romance num
+
+break down problem 
+
+loop throught each later
+convert string into romance number
+convert romance
+compair number if number infront is smaller then next number just substract them and make it comeout possitive
+
+psuedo code
+
+array of string = s.split("")
+convert["I"]
+sum
+if convert1 < convert2
+
+result = |convert - convert 2|
+sum = sum + result
